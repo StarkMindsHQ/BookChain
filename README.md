@@ -89,7 +89,7 @@ pnpm format
 We welcome contributions from all open-source and web3 builders!  
 See [`CONTRIBUTING.md`](./CONTRIBUTING.md) to get started.
 
-- 🔎 Check [Issues](https://github.com/sta/bookchain-project/issues) for open tasks
+- 🔎 Check [Issues](https://github.com/StarkMindsHQ/BookChain/issues) for open tasks
 - 🛠 PRs must pass tests and linting
 - 🧠 Ask questions via Discussions or Telegram
 
