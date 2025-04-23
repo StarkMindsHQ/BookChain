@@ -56,7 +56,7 @@ bookchain-project/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/StarkMindsHQ/BookChain.git
-cd bookchain-project
+cd bookchain
 ```
 
 ### 2. Install dependencies
